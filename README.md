@@ -125,13 +125,20 @@ test: ../test/images
 
 nc: 2
 names: ['fake', 'real']
-🤝 Acknowledgments
+
+## 🤝 Acknowledgments
+
 OpenCV: For efficient image processing.
 cvzone: Simplifying bounding box visualization.
 Ultralytics YOLO: Powering real-time classification.
-For questions or suggestions, feel free to reach out or create an issue in the repository. Happy coding! 🎉
 
+### For questions or suggestions, feel free to reach out or create an issue in the repository. Happy coding! 🎉
 
+# Training 
+
+![](https://github.com/Vaibhav112003/Anti_Spoofing_Project-/blob/main/training_Dataset.png)
+
+# Result 
 
 ![Repository Logo](https://github.com/Vaibhav112003/Anti_Spoofing_Project-/blob/main/result1.png)
 
